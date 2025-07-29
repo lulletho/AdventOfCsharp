@@ -1,0 +1,20 @@
+using AoC.Utils;
+
+namespace AoC.Solutions._2024;
+
+public class Day05: IDay
+{
+    public string SolvePart1(string input)
+    {
+        // Example implementation for Part 1
+        // Replace with actual logic
+        return "Part 1 solution";
+    }
+
+    public string SolvePart2(string input)
+    {
+        // Example implementation for Part 2
+        // Replace with actual logic
+        return "Part 2 solution";
+    }
+}

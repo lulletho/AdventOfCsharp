@@ -14,6 +14,7 @@ var host = Host.CreateDefaultBuilder(args)
         services.AddTransient<Day02>();
         services.AddTransient<Day03>();
         services.AddTransient<Day04>();
+        services.AddTransient<Day05>();
     })
     .Build();
 

@@ -23,6 +23,7 @@ public class DayFactory : IDayFactory
         2 => _provider.GetRequiredService<Day02>(),
         3 => _provider.GetRequiredService<Day03>(),
         4 => _provider.GetRequiredService<Day04>(),
+        5 => _provider.GetRequiredService<Day05>(),
         _ => null
     };
 }
